@@ -1,0 +1,31 @@
+html{
+    background-color: #F0F8FF;
+    color: darkblue;
+    
+}
+body{
+    margin: auto;
+    width: 60%;
+
+}
+.cim{
+    color:#DC143C ;
+}
+
+.szoveg{
+    color:#00008B;
+}
+
+h1{
+
+    font-size: 6em;
+   text-align: center;
+}
+
+.szarka2{
+   width: 230px;
+   height: 150px;
+}
+
+    
+    
